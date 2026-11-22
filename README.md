@@ -12,14 +12,15 @@
 
 ## 😈 Sobre mim
 
-```text
+```md
 > Codinome:    kaskafta 👾
 > Classe:      Aspirante a Red Teamer / Pentester Jr
 > Nível:       Iniciante)
 > Arma:        Go + Python
-> Campo:       Segurança ofensiva, redes, hardware e emulação
+> Campo:       Segurança ofensiva, redes, hardware e emulação, ctf-player
+> Comunidades: Membro fundador do Serigy Hacker Club
 ```
-
+- 🏴‍☠️ Membro fundador do [**serigyhc**](https://serigyhackerclub.github.io/), comunidade de hacking e segurança.
 - 🔐 Estudando **segurança ofensiva** na [TryHackMe](https://tryhackme.com/r/p/M4rco) [Htb](https://app.hackthebox.com/users/707570), resolvendo salas e máquinas.
 - 🎯 Meu foco é **Red Team e Pentest**, começando pelos fundamentos: redes, Linux, web e escalada de privilégio.
 - 🐍 Escrevo minhas próprias ferramentas em **Python e Go** (como scanners) para entender o que acontece por baixo dos panos.
