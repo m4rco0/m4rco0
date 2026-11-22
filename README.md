@@ -13,16 +13,14 @@
 ## 😈 Sobre mim
 
 ```text
-> Codinome:    M4.unknow 👾
+> Codinome:    kaskafta 👾
 > Classe:      Aspirante a Red Teamer / Pentester Jr
-> Nível:       Iniciante (mas evoluindo todo dia)
-> Arma:        Rebellion (Go) + Ebony & Ivory (Python)
+> Nível:       Iniciante)
+> Arma:        Go + Python
 > Campo:       Segurança ofensiva, redes, hardware e emulação
-> Combustível: Café, pizza e sundae de morango 🍓
-> Objetivo:    Chegar em root, com autorização
 ```
 
-- 🔐 Estudando **segurança ofensiva** na [TryHackMe](https://tryhackme.com/r/p/M4rco), resolvendo salas e máquinas.
+- 🔐 Estudando **segurança ofensiva** na [TryHackMe](https://tryhackme.com/r/p/M4rco) [Htb](https://app.hackthebox.com/users/707570), resolvendo salas e máquinas.
 - 🎯 Meu foco é **Red Team e Pentest**, começando pelos fundamentos: redes, Linux, web e escalada de privilégio.
 - 🐍 Escrevo minhas próprias ferramentas em **Python e Go** (como scanners) para entender o que acontece por baixo dos panos.
 - 📷 Também mexo com hardware: **tracking de objetos com ESP32-CAM**.
