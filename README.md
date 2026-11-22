@@ -115,7 +115,7 @@ Relatórios e boas práticas      ██░░░░░░░░  a caminho
 
 <br/><br/>
 
-<i>"Jackpot!" — flag capturada, máquina rootada 🎰</i>
+<i>Jackpot</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d0000,100:E10600&height=120&section=footer" width="100%" />
 
