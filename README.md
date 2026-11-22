@@ -3,7 +3,7 @@
 <img src="./header.svg" alt="M4RCO0 - Red Team / Pentest" width="100%" />
 
 <a href="https://github.com/m4rco0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E10600&center=true&vCenter=true&width=720&lines=Aprendendo+Red+Team+e+Pentest+do+zero;Python+%7C+Go+%7C+Linux+%7C+TryHackMe;Cada+m%C3%A1quina+rootada+%C3%A9+um+dem%C3%B4nio+a+menos.;Let's+rock%2C+baby.+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E10600&center=true&vCenter=true&width=720&lines=Aprendendo+Red+Team+e+Pentest+do+zero;Python+%7C+Go+%7C+Linux+%7C+TryHackMe;Let's+rock%2C+baby.+%F0%9F%8E%B8" alt="Typing SVG" />
 </a>
 
 </div>
